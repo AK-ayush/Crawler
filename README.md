@@ -5,5 +5,18 @@ The best way to extract data that is spread out across many pages of a site is b
 Javascript enabled web spider for extracting the the content of hidden links in peginated index. Where the hrefs are hidden in javascript function calls.
 
 
-##Installation
+##How to use
+
+open the file:
+
+docs/manual.pdf 
+
+
+##Implimentation Details
+
+open the files:
+
+docs/design_doc.pdf
+
+docs/write_up.pdf
 
